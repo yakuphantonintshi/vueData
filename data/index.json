@@ -1,0 +1,122 @@
+{
+    "jobTitle": [
+        {
+            "title": "web developer"
+        },
+        {
+            "title": "content creator"
+        },
+        {
+            "title": "NMU Alumni"
+        },
+        {
+            "title": "student"
+        }
+    ],
+    "about":[
+        "Hello, I am Yakupha Ntonintshi.I was born and raised in a small township called Khayelitsha in Cape Town. I live with both my parents and my two brothers. I am the only girl at home. My passion for web developer started when I applied at Life Choices. I only had an IT background, where I was doing one programming language which was Delphi, which also added an impact in me loving everything about coding. => Date of birth : 19 December 2002 => Age : 21 years old => Weight : 61.2 kg"
+    ],
+    "education":[
+        {
+            "id": 1,
+            "pass": "Bachelor Pass",
+            "school": "Center of Science and Technology",
+            "matric_year": 2020,
+            "location": "Cape Town Western Cape"
+        },
+        {
+            "id": 2,
+            "degree": "BA majoring in Pyschology",
+            "institution": "Nelson Mandela University",
+            "graduation_year": 2024,
+            "location": "Port Elizabeth Eastern Cape"
+        }
+    ],
+    "experiences":[
+        {
+            "id": 3,
+            "title": "Web Developer Intern",
+            "company": "Life Choices Academy",
+            "location": "Landsdowne Cape Town",
+            "duration": "April 2024 - April 2025"
+        }
+    ],
+    "skills":[
+        {
+            "id": 4,
+            "title": "Javascript",
+            "monthsOfExperience": 2
+        },
+
+        {
+            "id": 5,
+            "title": "HTML",
+            "monthsOfExperience": 5
+        },
+        {
+            "id": 6,
+            "title": "CSS",
+            "monthsOfExperience": 5
+        },
+        {
+            "id": 7,
+            "title": "Delphi",
+            "monthsOfExperience": 36
+        }
+    ],
+    "testimonials":[
+        {
+            "id": 8,
+            "name": "Lamlankosi",
+            "jobtitle": "Web Developer",
+            "review": "We were blown away by the quality of Yakupha's work. She created a website that is visually stunning, highly functional, and perfectly aligned with our brand. Her attention to detail and commitment to excellence is apparent in every aspect of her work. Yakupha is a true professional who cares deeply about their clients' success. We couldn't be happier with our new site.",
+            "profile": "https://yakuphantonintshi.github.io/myimages/Images/"
+        },
+        {
+            "id": 9,
+            "name": "Khanya Pupuma",
+            "jobtitle": "Web Developer" ,
+            "review": "From the start, Yakupha stood out for her creativity, technical proficiency, and dedication to client satisfaction. She took our ideas and turned them into a dynamic website that has significantly enhanced our online presence. ",
+            "profile": "https://yakuphantonintshi.github.io/myimages/Images/Khanya.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Simanye Somdaka",
+            "jobtitle": "Web Developer",
+            "review": "Working with Yakupha has been a game-changer for our business. Her ability to understand our vision and translate it into a functional, beautiful website was nothing short of impressive. She was responsive, professional, and incredibly detail-oriented. Our website not only looks fantastic but also performs seamlessly.",
+            "profile": "https://yakuphantonintshi.github.io/myimages/Images/simanye.jpg"
+        }
+    ],
+    "projects": [
+        {
+            "id": 11,
+            "projectName": "calculator",
+            "github": "https://github.com/yakuphantonintshi/javascript_calc.git",
+            "vercel": "https://javascript-calc-psi.vercel.app/"
+        },
+        {
+            "id": 12,
+            "projectName": "keyboard",
+            "github": "https://github.com/yakuphantonintshi/Keyboard.git"
+
+        },
+        {
+            "id": 13,
+            "projectName": "javascript",
+            "github": "https://github.com/yakuphantonintshi/javascriptProject.git",
+            "vercel": "https://javascript-project-beta.vercel.app/"
+        },
+        {
+            "id": 14,
+            "projectName": "BMIcalculator",
+            "github":"https://github.com/yakuphantonintshi/BMIcalculator.git" ,
+            "vercel": "https://bm-icalculator-phiu.vercel.app/"
+        },
+        {
+            "id": 15,
+            "projectName": "temp_converter",
+            "github": "https://github.com/yakuphantonintshi/tempConverter.git",
+            "vercel": "https://temp-converter-j6e2.vercel.app/"
+        }
+    ]
+}
