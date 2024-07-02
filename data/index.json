@@ -97,33 +97,49 @@
     "projects": [
         {
             "id": 11,
-            "projectName": "calculator",
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/calculator (2).png",
+            "projectName": "Calculator",
+            "description": "I built this calculator using mostly javascript as it needed more functionality, then I used CSS for styling it. HTML is used as a template to display the calculator.",
             "github": "https://github.com/yakuphantonintshi/javascript_calc.git",
             "vercel": "https://javascript-calc-psi.vercel.app/"
         },
         {
             "id": 12,
-            "projectName": "keyboard",
-            "github": "https://github.com/yakuphantonintshi/Keyboard.git"
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/To-Do.png",
+            "projectName": "To-Do List",
+            "description": "Ibuilt this keyboard using mostly Javascript for functioning, CSS for styling and HTML.",
+            "github": "https://github.com/yakuphantonintshi/to-do-new.git",
+            "vercel": "https://to-do-new-delta.vercel.app/"
 
         },
         {
             "id": 13,
-            "projectName": "javascript",
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/jsProject.png",
+            "projectName": "Javascript Project",
+            "description": "I had an e-commerce Javascript project whereby I decided to sell flowers. It consists of Javascript for functioning, CSS for styling and HTML as a template.",
             "github": "https://github.com/yakuphantonintshi/javascriptProject.git",
             "vercel": "https://javascript-project-beta.vercel.app/"
         },
         {
             "id": 14,
-            "projectName": "BMIcalculator",
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/BMI.png",
+            "projectName": "BMI Calculator",
             "github":"https://github.com/yakuphantonintshi/BMIcalculator.git" ,
-            "vercel": "https://bm-icalculator-phiu.vercel.app/"
+            "vercel": "https://bm-icalculator-nu.vercel.app/"
         },
         {
             "id": 15,
-            "projectName": "temp_converter",
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/temp_convert.png",
+            "projectName": "Temperature Converter",
             "github": "https://github.com/yakuphantonintshi/tempConverter.git",
             "vercel": "https://temp-converter-j6e2.vercel.app/"
+        },
+        {
+            "id": 16,
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/flipcard.png",
+            "projectName": "Flip Card",
+            "github": "https://github.com/yakuphantonintshi/flipcard.git",
+            "vercel": "https://flipcard-five.vercel.app/"
         }
     ]
 }
