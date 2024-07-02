@@ -77,7 +77,7 @@
             "name": "Lamlankosi",
             "jobtitle": "Web Developer",
             "review": "We were blown away by the quality of Yakupha's work. She created a website that is visually stunning, highly functional, and perfectly aligned with our brand. Her attention to detail and commitment to excellence is apparent in every aspect of her work. Yakupha is a true professional who cares deeply about their clients' success. We couldn't be happier with our new site.",
-            "profile": "https://yakuphantonintshi.github.io/myimages/Images/"
+            "profile": "https://yakuphantonintshi.github.io/myimages/Images/Lamlankosi.jpg"
         },
         {
             "id": 9,
@@ -90,9 +90,30 @@
             "id": 10,
             "name": "Simanye Somdaka",
             "jobtitle": "Web Developer",
-            "review": "Working with Yakupha has been a game-changer for our business. Her ability to understand our vision and translate it into a functional, beautiful website was nothing short of impressive. She was responsive, professional, and incredibly detail-oriented. Our website not only looks fantastic but also performs seamlessly.",
+            "review": "As an aspiring developer Yakupha portrays extraordinary skills in her projects which express elegancy. I am always delighted to work with her.",
             "profile": "https://yakuphantonintshi.github.io/myimages/Images/simanye.jpg"
-        }
+        },
+        {
+           "id": 11,
+            "name": "Awodwa Hendricks",
+            "jobtitle": "Web Developer",
+            "review": "Working with Yakupha has been a game-changer for our business. Her ability to understand our vision and translate it into a functional, beautiful website was nothing short of impressive. She was responsive, professional, and incredibly detail-oriented. Our website not only looks fantastic but also performs seamlessly.",
+            "profile": "https://yakuphantonintshi.github.io/myimages/Images/" 
+        },
+        {
+            "id": 12,
+             "name": "Nusaibah Abderemane Charif",
+             "jobtitle": "Web Developer",
+             "review": "Working with Yakupha has honestly been a wonderful experience. She brings an innovative and creative approach to the development process.",
+             "profile": "https://yakuphantonintshi.github.io/myimages/Images/Nusaibah.jpg" 
+         },
+         {
+            "id": 13,
+             "name": "Erin William",
+             "jobtitle": "Web Developer",
+             "review": "Although I've only recently become acquainted with Yakupa, her kindness and work ethic speak volumes about her character. It's evident that she approaches everything with genuine warmth and determination. Yakupa's commitment to her tasks is admirable, and her considerate nature shines through in every interaction. It's refreshing to encounter someone so inherently kind and hardworking, and I'm eager to see the positive impact she continues to make in both her personal and professional endeavors.",
+             "profile": "https://yakuphantonintshi.github.io/myimages/Images/Erin.jpg" 
+         }
     ],
     "projects": [
         {
