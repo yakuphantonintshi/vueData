@@ -124,6 +124,7 @@
             "id": 14,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/BMI.png",
             "projectName": "BMI Calculator",
+            "description": "I created this BMI Calculator to keep track of my health. I used Javascript, CSS and HTML.",
             "github":"https://github.com/yakuphantonintshi/BMIcalculator.git" ,
             "vercel": "https://bm-icalculator-nu.vercel.app/"
         },
@@ -131,6 +132,7 @@
             "id": 15,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/temp_convert.png",
             "projectName": "Temperature Converter",
+            "description": "I made this temparature converter to test how different is kelvin to celcius.",
             "github": "https://github.com/yakuphantonintshi/tempConverter.git",
             "vercel": "https://temp-converter-j6e2.vercel.app/"
         },
@@ -138,6 +140,7 @@
             "id": 16,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/flipcard.png",
             "projectName": "Flip Card",
+            "description": "I created this flip card using HTML, CSS and Javascript.",
             "github": "https://github.com/yakuphantonintshi/flipcard.git",
             "vercel": "https://flipcard-five.vercel.app/"
         }
