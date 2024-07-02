@@ -19,6 +19,7 @@
     "education":[
         {
             "id": 1,
+            "imageURL": "https://yakuphantonintshi.github.io/myimages/Images/COSAT.png",
             "pass": "Bachelor Pass",
             "school": "Center of Science and Technology",
             "matric_year": 2020,
@@ -26,6 +27,7 @@
         },
         {
             "id": 2,
+            "imageURL": "https://yakuphantonintshi.github.io/myimages/Images/NMU.jpg",
             "degree": "BA majoring in Pyschology",
             "institution": "Nelson Mandela University",
             "graduation_year": 2024,
