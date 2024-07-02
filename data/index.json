@@ -47,23 +47,28 @@
         {
             "id": 4,
             "title": "Javascript",
-            "monthsOfExperience": 2
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/javascript.png"
         },
 
         {
             "id": 5,
             "title": "HTML",
-            "monthsOfExperience": 5
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/HTML.png"
         },
         {
             "id": 6,
             "title": "CSS",
-            "monthsOfExperience": 5
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/css.png"
         },
         {
             "id": 7,
             "title": "Delphi",
-            "monthsOfExperience": 36
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/delphi.png"
+        },
+        {
+            "id": 8,
+            "title": "Peer Supporter",
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/peer_support.jpg"
         }
     ],
     "testimonials":[
