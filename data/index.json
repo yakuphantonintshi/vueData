@@ -144,7 +144,7 @@
             "id": 14,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/BMI.png",
             "projectName": "BMI Calculator",
-            "description": "I created this BMI Calculator to keep track of my health. I used Javascript, CSS and HTML.",
+            "description": "I created this BMI Calculator to keep track of my health. I used Javascript, CSS and HTML. It tells you when you are underweight, overweight or in a good weight, based on your results.",
             "github":"https://github.com/yakuphantonintshi/BMIcalculator.git" ,
             "vercel": "https://bm-icalculator-nu.vercel.app/"
         },
@@ -152,7 +152,7 @@
             "id": 15,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/temp_convert.png",
             "projectName": "Temperature Converter",
-            "description": "I made this temparature converter to test how different is kelvin to celcius.",
+            "description": "I made this temparature converter. It converts the kelvin temperature to celsius temparature. It can even help you to know the kelvin temparature in celcius temp.",
             "github": "https://github.com/yakuphantonintshi/tempConverter.git",
             "vercel": "https://temp-converter-j6e2.vercel.app/"
         },
@@ -160,7 +160,7 @@
             "id": 16,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/flipcard.png",
             "projectName": "Flip Card",
-            "description": "I created this flip card using HTML, CSS and Javascript. It flips another card when hovering a card",
+            "description": "I created this flip card using HTML, CSS and Javascript. It flips another card when hovering a card. It is a nice animation to do and to know.",
             "github": "https://github.com/yakuphantonintshi/flipcard.git",
             "vercel": "https://flipcard-five.vercel.app/"
         }
