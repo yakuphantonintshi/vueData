@@ -127,7 +127,7 @@
             "id": 12,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/To-Do.png",
             "projectName": "To-Do List",
-            "description": "Ibuilt this keyboard using mostly Javascript for functioning, CSS for styling and HTML.",
+            "description": "I built this keyboard using mostly Javascript for functioning, CSS for styling and HTML. It adds your to do list and you can delete a certain task when you are done doing it",
             "github": "https://github.com/yakuphantonintshi/to-do-new.git",
             "vercel": "https://to-do-new-delta.vercel.app/"
 
@@ -160,7 +160,7 @@
             "id": 16,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/flipcard.png",
             "projectName": "Flip Card",
-            "description": "I created this flip card using HTML, CSS and Javascript.",
+            "description": "I created this flip card using HTML, CSS and Javascript. It flips another card when hovering a card",
             "github": "https://github.com/yakuphantonintshi/flipcard.git",
             "vercel": "https://flipcard-five.vercel.app/"
         }
