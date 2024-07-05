@@ -160,7 +160,7 @@
             "id": 16,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/flipcard.png",
             "projectName": "Flip Card",
-            "description": "I created this flip card using HTML, CSS and Javascript. It flips another card when hovering a card. It is a nice animation to do and to know.",
+            "description": "I created this flip card using HTML, CSS and Javascript. It flips another card when hovering a card. It is a nice animation to do and to know. It is a nice feature to have in a project",
             "github": "https://github.com/yakuphantonintshi/flipcard.git",
             "vercel": "https://flipcard-five.vercel.app/"
         }
