@@ -21,7 +21,7 @@
             "school": "Center of Science and Technology",
             "graduation_year": 2020,
             "location": "Cape Town Western Cape",
-            "certificate": "https://yakuphantonintshi.github.io/myimages/Images/My Certificate 2.pdf"     
+            "certificate": "https://yakuphantonintshi.github.io/myimages/Images/My Certificate.pdf"     
            },
         {
             "id": 2,
@@ -30,7 +30,7 @@
             "school": "Nelson Mandela University",
             "graduation_year": 2024,
             "location": "Port Elizabeth Eastern Cape",
-            "certificate": "https://yakuphantonintshi.github.io/myimages/Images/My Certificate.pdf"
+            "certificate": "https://yakuphantonintshi.github.io/myimages/Images/My Certificate 2.pdf"
         }
     ],
     "experiences":[
