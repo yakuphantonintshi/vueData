@@ -19,7 +19,7 @@
             "imageURL": "https://yakuphantonintshi.github.io/myimages/Images/COSAT.png",
             "degree": "Bachelor Pass",
             "school": "Center of Science and Technology",
-            "graduation_year": 2020,
+            "graduation_year":"2016 - 2020",
             "location": "Cape Town Western Cape",
             "certificate": "https://yakuphantonintshi.github.io/myimages/Images/My Certificate.pdf"     
            },
@@ -28,9 +28,16 @@
             "imageURL": "https://yakuphantonintshi.github.io/myimages/Images/NMU.jpg",
             "degree": "BA majoring in Pyschology",
             "school": "Nelson Mandela University",
-            "graduation_year": 2024,
+            "graduation_year": "2021 - 2024",
             "location": "Port Elizabeth Eastern Cape",
             "certificate": "https://yakuphantonintshi.github.io/myimages/Images/My Certificate 2.pdf"
+        },
+        {
+            "id": 3,
+            "imageURL": "https://yakuphantonintshi.github.io/myimages/Images/NMU.jpg",
+            "school": "Life Choices Academy",
+            "graduation_year": 2024,
+            "location": "Cape Town Western Cape"
         }
     ],
     "experiences":[
@@ -46,28 +53,40 @@
         {
             "id": 4,
             "title": "Javascript",
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/javascript.png"
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/javascript.png",
+            "hover": "A versatile programming language primarily used for adding interactivity and dynamic behavior to websites."
         },
 
         {
             "id": 5,
             "title": "HTML",
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/HTML.png"
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/HTML.png",
+            "hover": "HyperText Markup Language is the standard markup language used to create and design documents on the web."
         },
         {
             "id": 6,
             "title": "CSS",
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/css.png"
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/css.png",
+            "hover": "Cascading Style Sheets is a stylesheet language used to control the presentation and layout of HTML elements on a web page."
         },
         {
             "id": 7,
             "title": "Delphi",
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/delphi2.png"
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/delphi2.png",
+            "hover": "An integrated development environment (IDE) and programming language used primarily for developing Windows applications."
         },
         {
             "id": 8,
-            "title": "Peer Supporter",
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/peer_support.jpg"
+            "title": "Excel",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s",
+            "hover": "A powerful spreadsheet application developed by Microsoft, widely used for data organization, analysis, and visualization."
+        }, 
+        {
+            "id": 9,
+            "title": "NODE",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+            "hover": "A popular open-source runtime environment that allows developers to execute JavaScript code on the server side."
+       
         }
     ],
     "testimonials":[
@@ -134,11 +153,11 @@
         },
         {
             "id": 13,
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/jsProject.png",
-            "projectName": "Javascript Project",
-            "description": "I had an e-commerce Javascript project whereby I decided to sell flowers. It consists of Javascript for functioning, CSS for styling and HTML as a template.",
-            "github": "https://github.com/yakuphantonintshi/javascriptProject.git",
-            "vercel": "https://javascript-project-beta.vercel.app/"
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/Screenshot 2024-09-18 150605.png",
+            "projectName": "NODE Project",
+            "description": "I had a NODE project, which was a partner project, whereby we did e-commerce selling jewellery. It consists of Javascript for functioning, CSS for styling and HTML as a template.",
+            "github": "https://github.com/ArachnidArchitect/taahir-yakupha-node-project.git",
+            "vercel": "https://radiant-rubies.web.app/home"
         },
         {
             "id": 14,
