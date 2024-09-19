@@ -90,6 +90,24 @@
             "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
             "hover": "A popular open-source runtime environment that allows developers to execute JavaScript code on the server side."
        
+        },
+        {
+            "id": 10,
+            "title": "Github",
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/GITHUB.jpg",
+            "hover": "A versatile programming language primarily used for adding interactivity and dynamic behavior to websites."
+        },
+        {
+            "id": 11,
+            "title": "Bootstrap",
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/bootstrap.png",
+            "hover": "A versatile programming language primarily used for adding interactivity and dynamic behavior to websites."
+        },
+        {
+            "id": 12,
+            "title": "MYSQL",
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/MYSQL.png",
+            "hover": "A versatile programming language primarily used for adding interactivity and dynamic behavior to websites."
         }
     ],
     "testimonials":[
