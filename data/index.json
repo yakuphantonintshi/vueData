@@ -17,10 +17,11 @@
         {
             "id": 1,
             "imageURL": "https://media.licdn.com/dms/image/v2/C4D0BAQF81UYyi2QGrg/company-logo_200_200/company-logo_200_200/0/1630505581427?e=2147483647&v=beta&t=4tdDhhmdlE3Rjw0dOat7TBJeimyvOlY-l3o_4dLC5dQ",
-            "degree": "Pending",
+            "degree": "Completed",
             "school": "Life Choices Academy",
             "graduation_year": 2024,
-            "location": "Cape Town Western Cape"
+            "location": "Cape Town Western Cape",
+            "certificate": "https://yakuphantonintshi.github.io/myimages/Images/lifechoicesCert.pdf"  
         },
         
         {
