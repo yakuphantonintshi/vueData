@@ -175,10 +175,10 @@
         {
             "id": 13,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/Screenshot 2024-09-18 150605.png",
-            "projectName": "NODE Project",
-            "description": "I had a NODE project, which was a partner project, whereby we did e-commerce selling jewellery. It consists of Javascript for functioning, CSS for styling and HTML as a template.",
-            "github": "https://github.com/ArachnidArchitect/taahir-yakupha-node-project.git",
-            "vercel": "https://radiant-rubies.web.app/home"
+            "projectName": "Weather App",
+            "description": "This project consists of HTML, CSS and Javascript, where I fetched the data from the API to show teh weather for different days",
+            "github": "https://github.com/yakuphantonintshi/portfolioTemp.git",
+            "vercel": "https://weather-app-six-iota-55.vercel.app/"
         },
         {
             "id": 14,
