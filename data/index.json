@@ -156,6 +156,30 @@
     ],
     "projects": [
         {
+            "id": 14,
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/Screenshot 2025-02-20 100008.png",
+            "projectName": "Memory Card Game",
+            "description": "I created this BMI Calculator to keep track of my health. I used Javascript, CSS and HTML. It tells you when you are underweight, overweight or in a good weight, based on your results.",
+            "github":"https://github.com/yakuphantonintshi/memoryCardGame.git" ,
+            "vercel": "https://memory-card-game-zdnl.vercel.app/"
+        },
+        {
+            "id": 13,
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/Screenshot 2025-02-14 092214.png",
+            "projectName": "Weather App",
+            "description": "This project consists of HTML, CSS and Javascript, where I fetched the data from the API to show teh weather for different days",
+            "github": "https://github.com/yakuphantonintshi/portfolioTemp.git",
+            "vercel": "https://weather-app-six-iota-55.vercel.app/"
+        },
+        {
+            "id": 16,
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/Screenshot 2025-02-20 100546.png",
+            "projectName": "ROCK, PAPER, SCISSORS",
+            "description": "I created this flip card using HTML, CSS and Javascript. It flips another card when hovering a card. It is a nice animation to do and to know. It is a nice feature to have in a project",
+            "github": "https://github.com/itz-marcus/RPSC.git",
+            "vercel": "https://r-p-s-c.vercel.app/"
+        },
+        {
             "id": 11,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/calculator (2).png",
             "projectName": "Calculator",
@@ -173,36 +197,12 @@
 
         },
         {
-            "id": 13,
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/Screenshot 2025-02-14 092214.png",
-            "projectName": "Weather App",
-            "description": "This project consists of HTML, CSS and Javascript, where I fetched the data from the API to show teh weather for different days",
-            "github": "https://github.com/yakuphantonintshi/portfolioTemp.git",
-            "vercel": "https://weather-app-six-iota-55.vercel.app/"
-        },
-        {
-            "id": 14,
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/BMI.png",
-            "projectName": "BMI Calculator",
-            "description": "I created this BMI Calculator to keep track of my health. I used Javascript, CSS and HTML. It tells you when you are underweight, overweight or in a good weight, based on your results.",
-            "github":"https://github.com/yakuphantonintshi/BMIcalculator.git" ,
-            "vercel": "https://bm-icalculator-nu.vercel.app/"
-        },
-        {
             "id": 15,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/temp_convert.png",
             "projectName": "Temperature Converter",
-            "description": "I made this temparature converter. It converts the kelvin temperature to celsius temparature. It can even help you to know the kelvin temparature in celcius temp.",
+            "description": "I made this temperature converter. It converts the kelvin temperature to celsius temperature. It can even help you to know the kelvin temparature in celcius temp.",
             "github": "https://github.com/yakuphantonintshi/tempConverter.git",
             "vercel": "https://temp-converter-j6e2.vercel.app/"
-        },
-        {
-            "id": 16,
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/flipcard.png",
-            "projectName": "Flip Card",
-            "description": "I created this flip card using HTML, CSS and Javascript. It flips another card when hovering a card. It is a nice animation to do and to know. It is a nice feature to have in a project",
-            "github": "https://github.com/yakuphantonintshi/flipcard.git",
-            "vercel": "https://flipcard-five.vercel.app/"
         }
     ]
 }
