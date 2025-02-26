@@ -79,12 +79,6 @@
             "hover": "An integrated development environment (IDE) and programming language used primarily for developing Windows applications."
         },
         {
-            "id": 8,
-            "title": "Excel",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s",
-            "hover": "A powerful spreadsheet application developed by Microsoft, widely used for data organization, analysis, and visualization."
-        }, 
-        {
             "id": 9,
             "title": "NODE",
             "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
