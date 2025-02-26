@@ -108,6 +108,12 @@
             "title": "MYSQL",
             "image": "https://yakuphantonintshi.github.io/myimages/Images/MYSQL.png",
             "hover": "A versatile programming language primarily used for adding interactivity and dynamic behavior to websites."
+        },
+        {
+            "id": 12,
+            "title": "Figma",
+            "image": "https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png",
+            "hover": "A versatile programming language primarily used for adding interactivity and dynamic behavior to websites."
         }
     ],
     "testimonials":[
