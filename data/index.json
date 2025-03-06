@@ -191,7 +191,7 @@
             "id": 12,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/Screenshot 2025-03-06 110757.png",
             "projectName": "Password Generator",
-            "description": "I built this keyboard using mostly Javascript for functioning, CSS for styling and HTML. It adds your to do list and you can delete a certain task when you are done doing it",
+            "description": "I built this keyboard using mostly Javascript for functioning, CSS for styling and HTML.",
             "github": "https://github.com/yakuphantonintshi/passwordGen.git",
             "vercel": "https://password-gen-bice.vercel.app/"
 
