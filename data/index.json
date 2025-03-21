@@ -1,13 +1,13 @@
 {
     "jobTitle": [
         {
-            "title": "aspiring web developer"
+            "title": "Web developer"
         },
         {
             "title": "NMU Alumni"
         },
         {
-            "title": "student"
+            "title": "Software Developer"
         }
     ],
     "about":[
@@ -79,12 +79,6 @@
             "hover": "An integrated development environment (IDE) and programming language used primarily for developing Windows applications."
         },
         {
-            "id": 8,
-            "title": "Excel",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s",
-            "hover": "A powerful spreadsheet application developed by Microsoft, widely used for data organization, analysis, and visualization."
-        }, 
-        {
             "id": 9,
             "title": "NODE",
             "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
@@ -107,6 +101,12 @@
             "id": 12,
             "title": "MYSQL",
             "image": "https://yakuphantonintshi.github.io/myimages/Images/MYSQL.png",
+            "hover": "A versatile programming language primarily used for adding interactivity and dynamic behavior to websites."
+        },
+        {
+            "id": 12,
+            "title": "Figma",
+            "image": "https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png",
             "hover": "A versatile programming language primarily used for adding interactivity and dynamic behavior to websites."
         }
     ],
@@ -182,6 +182,30 @@
     ],
     "projects": [
         {
+            "id": 14,
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/Screenshot 2025-02-20 100008.png",
+            "projectName": "Memory Card Game",
+            "description": "I made this project using HTML, CSS and Javascript.",
+            "github":"https://github.com/yakuphantonintshi/memoryCardGame.git" ,
+            "vercel": "https://memory-card-game-zdnl.vercel.app/"
+        },
+        {
+            "id": 13,
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/Screenshot 2025-02-14 092214.png",
+            "projectName": "Weather App",
+            "description": "This project consists of HTML, CSS and Javascript, where I fetched the data from the API to show teh weather for different days",
+            "github": "https://github.com/yakuphantonintshi/portfolioTemp.git",
+            "vercel": "https://weather-app-six-iota-55.vercel.app/"
+        },
+        {
+            "id": 16,
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/Screenshot 2025-02-20 100546.png",
+            "projectName": "ROCK, PAPER, SCISSORS",
+            "description": "This was a group work, where we used HTML, CSS and Python to build this project, we fetched the data from the API also.",
+            "github": "https://github.com/itz-marcus/RPSC.git",
+            "vercel": "https://r-p-s-c.vercel.app/"
+        },
+        {
             "id": 11,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/calculator (2).png",
             "projectName": "Calculator",
@@ -191,44 +215,20 @@
         },
         {
             "id": 12,
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/To-Do.png",
-            "projectName": "To-Do List",
-            "description": "I built this keyboard using mostly Javascript for functioning, CSS for styling and HTML. It adds your to do list and you can delete a certain task when you are done doing it",
-            "github": "https://github.com/yakuphantonintshi/to-do-new.git",
-            "vercel": "https://to-do-new-delta.vercel.app/"
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/Screenshot 2025-03-06 110757.png",
+            "projectName": "Password Generator",
+            "description": "I built this password generator using mostly Javascript for functioning, CSS for styling and HTML.",
+            "github": "https://github.com/yakuphantonintshi/passwordGen.git",
+            "vercel": "https://password-gen-bice.vercel.app/"
 
-        },
-        {
-            "id": 13,
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/Screenshot 2024-09-18 150605.png",
-            "projectName": "NODE Project",
-            "description": "I had a NODE project, which was a partner project, whereby we did e-commerce selling jewellery. It consists of Javascript for functioning, CSS for styling and HTML as a template.",
-            "github": "https://github.com/ArachnidArchitect/taahir-yakupha-node-project.git",
-            "vercel": "https://radiant-rubies.web.app/home"
-        },
-        {
-            "id": 14,
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/BMI.png",
-            "projectName": "BMI Calculator",
-            "description": "I created this BMI Calculator to keep track of my health. I used Javascript, CSS and HTML. It tells you when you are underweight, overweight or in a good weight, based on your results.",
-            "github":"https://github.com/yakuphantonintshi/BMIcalculator.git" ,
-            "vercel": "https://bm-icalculator-nu.vercel.app/"
         },
         {
             "id": 15,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/temp_convert.png",
             "projectName": "Temperature Converter",
-            "description": "I made this temparature converter. It converts the kelvin temperature to celsius temparature. It can even help you to know the kelvin temparature in celcius temp.",
+            "description": "I made this temperature converter. It converts the kelvin temperature to celsius temperature. It can even help you to know the kelvin temparature in celcius temp.",
             "github": "https://github.com/yakuphantonintshi/tempConverter.git",
             "vercel": "https://temp-converter-j6e2.vercel.app/"
-        },
-        {
-            "id": 16,
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/flipcard.png",
-            "projectName": "Flip Card",
-            "description": "I created this flip card using HTML, CSS and Javascript. It flips another card when hovering a card. It is a nice animation to do and to know. It is a nice feature to have in a project",
-            "github": "https://github.com/yakuphantonintshi/flipcard.git",
-            "vercel": "https://flipcard-five.vercel.app/"
         }
     ]
 }
