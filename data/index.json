@@ -113,27 +113,33 @@
     "softskills":[
         {
             "id": 3,
-            "skilltitle": "Communication"
+            "skilltitle": "Communication",
+            "image": "https://static.vecteezy.com/system/resources/previews/046/042/216/non_2x/black-and-white-icon-of-two-people-with-speech-bubbles-symbolizing-communication-vector.jpg"
         },
         {
             "id": 3,
-            "skilltitle": "Punctuality"
+            "skilltitle": "Punctuality",
+            "image": "https://static.vecteezy.com/system/resources/previews/044/598/273/non_2x/punctuality-and-deadline-icon-concept-vector.jpg"
         },
         {
             "id": 5,
-            "skilltitle": "Adaptability"
+            "skilltitle": "Adaptability",
+            "image": "https://c8.alamy.com/comp/2DFY6E5/adaptability-icon-line-style-element-from-life-skills-collection-thin-adaptability-icon-for-templates-infographics-and-more-2DFY6E5.jpg"
         },
         {
             "id": 6,
-            "skilltitle": "Time Management"
+            "skilltitle": "Time Management",
+            "image": "https://static.vecteezy.com/system/resources/previews/024/253/654/non_2x/time-management-icon-in-black-and-white-color-vector.jpg"
         },
         {
             "id": 7,
-            "skilltitle": "Team Work"
+            "skilltitle": "Team Work",
+            "image": "https://img.freepik.com/premium-vector/hands-teamwork-icon-logo-community-black-circle-white-design_678192-2488.jpg"
         },
         {
             "id": 8,
-            "skilltitle": "Problem Solving"
+            "skilltitle": "Problem Solving",
+            "image": "https://i.pinimg.com/474x/40/8e/4e/408e4e3c724d5f2933373893d5d143be.jpg"
         }
     ],
     "testimonials":[
