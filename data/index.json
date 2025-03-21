@@ -110,6 +110,32 @@
             "hover": "A versatile programming language primarily used for adding interactivity and dynamic behavior to websites."
         }
     ],
+    "softskills":[
+        {
+            "id": 3,
+            "skilltitle": "Communication"
+        },
+        {
+            "id": 3,
+            "skilltitle": "Punctuality"
+        },
+        {
+            "id": 5,
+            "skilltitle": "Adaptability"
+        },
+        {
+            "id": 6,
+            "skilltitle": "Time Management"
+        },
+        {
+            "id": 7,
+            "skilltitle": "Team Work"
+        },
+        {
+            "id": 8,
+            "skilltitle": "Problem Solving"
+        }
+    ],
     "testimonials":[
         {
             "id": 8,
