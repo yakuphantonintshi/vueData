@@ -173,11 +173,11 @@
         },
         {
             "id": 16,
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/Screenshot 2025-02-20 100546.png",
-            "projectName": "ROCK, PAPER, SCISSORS",
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/Screenshot 2025-05-29 085604.png",
+            "projectName": "WBWR",
             "description": "This was a group work, where we used HTML, CSS and Python to build this project, we fetched the data from the API also.",
-            "github": "https://github.com/itz-marcus/RPSC.git",
-            "vercel": "https://r-p-s-c.vercel.app/"
+            "github": "https://github.com/yakuphantonintshi/wbwr.git",
+            "vercel": "https://wbwr-bay.vercel.app/"
         },
         {
             "id": 11,
