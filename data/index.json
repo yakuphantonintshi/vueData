@@ -17,7 +17,7 @@
         {
             "id": 1,
             "imageURL": "https://media.licdn.com/dms/image/v2/C4D0BAQF81UYyi2QGrg/company-logo_200_200/company-logo_200_200/0/1630505581427?e=2147483647&v=beta&t=4tdDhhmdlE3Rjw0dOat7TBJeimyvOlY-l3o_4dLC5dQ",
-            "degree": "Completed",
+            "degree": "Web Development",
             "school": "Life Choices Academy",
             "graduation_year": 2024,
             "location": "Cape Town Western Cape",
@@ -27,7 +27,7 @@
         {
             "id": 2,
             "imageURL": "https://yakuphantonintshi.github.io/myimages/Images/NMU.jpg",
-            "degree": "Pyschology",
+            "degree": "Bachelor of Arts",
             "school": "Nelson Mandela University",
             "graduation_year": "2021 - 2024",
             "location": "Port Elizabeth Eastern Cape",
@@ -108,6 +108,38 @@
             "title": "Figma",
             "image": "https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png",
             "hover": "A versatile programming language primarily used for adding interactivity and dynamic behavior to websites."
+        }
+    ],
+    "softskills":[
+        {
+            "id": 3,
+            "skilltitle": "Communication",
+            "image": "https://static.vecteezy.com/system/resources/previews/046/042/216/non_2x/black-and-white-icon-of-two-people-with-speech-bubbles-symbolizing-communication-vector.jpg"
+        },
+        {
+            "id": 3,
+            "skilltitle": "Punctuality",
+            "image": "https://static.vecteezy.com/system/resources/previews/044/598/273/non_2x/punctuality-and-deadline-icon-concept-vector.jpg"
+        },
+        {
+            "id": 5,
+            "skilltitle": "Adaptability",
+            "image": "https://c8.alamy.com/comp/2DFY6E5/adaptability-icon-line-style-element-from-life-skills-collection-thin-adaptability-icon-for-templates-infographics-and-more-2DFY6E5.jpg"
+        },
+        {
+            "id": 6,
+            "skilltitle": "Time Management",
+            "image": "https://static.vecteezy.com/system/resources/previews/024/253/654/non_2x/time-management-icon-in-black-and-white-color-vector.jpg"
+        },
+        {
+            "id": 7,
+            "skilltitle": "Team Work",
+            "image": "https://img.freepik.com/premium-vector/hands-teamwork-icon-logo-community-black-circle-white-design_678192-2488.jpg"
+        },
+        {
+            "id": 8,
+            "skilltitle": "Problem Solving",
+            "image": "https://i.pinimg.com/474x/40/8e/4e/408e4e3c724d5f2933373893d5d143be.jpg"
         }
     ],
     "testimonials":[
