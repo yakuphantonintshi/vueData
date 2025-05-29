@@ -74,9 +74,9 @@
         },
         {
             "id": 7,
-            "title": "Delphi",
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/delphi2.png",
-            "hover": "An integrated development environment (IDE) and programming language used primarily for developing Windows applications."
+            "title": "Python",
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/python.png",
+            "hover": "A high-level, interpreted language known for its simplicity, readability, and versatility."
         },
         {
             "id": 9,
@@ -87,8 +87,8 @@
         },
         {
             "id": 10,
-            "title": "Github",
-            "image": "https://yakuphantonintshi.github.io/myimages/Images/GITHUB.jpg",
+            "title": "React",
+            "image": "https://yakuphantonintshi.github.io/myimages/Images/react.png",
             "hover": "A versatile programming language primarily used for adding interactivity and dynamic behavior to websites."
         },
         {
