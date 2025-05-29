@@ -207,7 +207,7 @@
             "id": 16,
             "image": "https://yakuphantonintshi.github.io/myimages/Images/Screenshot 2025-05-29 085604.png",
             "projectName": "WBWR",
-            "description": "This was a group work, where we used HTML, CSS and Python to build this project, we fetched the data from the API also.",
+            "description": "I was given this challenge to design a figma, using Typescript, React and TailwindCSS.",
             "github": "https://github.com/yakuphantonintshi/wbwr.git",
             "vercel": "https://wbwr-bay.vercel.app/"
         },
